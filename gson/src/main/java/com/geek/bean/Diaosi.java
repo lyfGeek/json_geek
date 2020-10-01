@@ -22,4 +22,5 @@ public class Diaosi {
 
     // transient 关键字。
     private transient String ignore;
+
 }

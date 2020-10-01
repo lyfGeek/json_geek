@@ -61,5 +61,4 @@ public class JsonObjectSample {
         // {"birthday":"1990-01-01","major":["理发","挖掘机"],"school":"蓝翔","name":"王小二","has_girlfriend":false,"comment":"这是一个注释。","age":25.2}
     }
 
-
 }
